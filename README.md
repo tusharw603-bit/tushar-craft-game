@@ -1,5 +1,5 @@
-# tushar-craft-game
- My 3d multiplayer sand box game 
+#  tushar-craft-game
+ My 3d multiplayer sand box game   
 index.html
 
 
@@ -12,7 +12,7 @@ index.html
     <title>Tushar Craft World</title>
 
 </head>
-
+rel=“stylesheet” href=“style.css
 <body>
 
     <h1>Welcome to Tushar Craft World!</h1>
