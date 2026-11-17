@@ -10,9 +10,8 @@ index.html
 <head>
 
     <title>Tushar Craft World</title>
+<link rel="stylesheet" href="style.css">
 
-</head>
-rel=“stylesheet” href=“style.css
 <body>
 
     <h1>Welcome to Tushar Craft World!</h1>
