@@ -8,9 +8,9 @@ index.html
 <html>
 
 <head>
-
-    <title>Tushar Craft World</title>
 <link rel="stylesheet" href="style.css">
+    <title>Tushar Craft World</title>
+
 
 <body>
 
